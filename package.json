@@ -1,0 +1,23 @@
+{
+  "name": "mlColors",
+  "version": "1.0.0",
+  "description": "first attempt at building a machine learning app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-marcantel/mlColors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-marcantel/mlColors/issues"
+  },
+  "homepage": "https://github.com/ben-marcantel/mlColors#readme",
+  "devDependencies": {
+    "brain.js": "^1.1.2"
+  }
+}
