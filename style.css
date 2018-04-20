@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    font-family: "futura";
+}
+#intro{
+    color:white;
+    margin:auto;
+    /* height: 5em;
+    width: 5em */
+}
+
+input[type=color] {
+    margin:auto;
+    border: none;
+    border-color: black;
+    border-radius: 2em;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    /* margin: 4px 2px; */
+}

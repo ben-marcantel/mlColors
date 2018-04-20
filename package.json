@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ben-marcantel/mlColors#readme",
   "devDependencies": {
     "brain.js": "^1.1.2"
+  },
+  "dependencies": {
+    "browserify": "^16.2.0"
   }
 }
